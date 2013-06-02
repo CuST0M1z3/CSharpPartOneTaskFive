@@ -1,0 +1,6 @@
+C:\Users\SpooN\Desktop\C# 07.12.2011 Evening\CSharp07.12.2011\5. Lines\bin\Debug\_5.Lines.exe.config
+C:\Users\SpooN\Desktop\C# 07.12.2011 Evening\CSharp07.12.2011\5. Lines\bin\Debug\_5.Lines.exe
+C:\Users\SpooN\Desktop\C# 07.12.2011 Evening\CSharp07.12.2011\5. Lines\bin\Debug\_5.Lines.pdb
+C:\Users\SpooN\Desktop\C# 07.12.2011 Evening\CSharp07.12.2011\5. Lines\obj\Debug\5. Lines.csprojResolveAssemblyReference.cache
+C:\Users\SpooN\Desktop\C# 07.12.2011 Evening\CSharp07.12.2011\5. Lines\obj\Debug\_5.Lines.exe
+C:\Users\SpooN\Desktop\C# 07.12.2011 Evening\CSharp07.12.2011\5. Lines\obj\Debug\_5.Lines.pdb

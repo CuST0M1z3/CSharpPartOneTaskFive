@@ -1,0 +1,6 @@
+C:\Users\SpooN\Desktop\C# 06.12.2011 Morning\Solution1\5. Pillars\bin\Debug\_5.Pillars.exe.config
+C:\Users\SpooN\Desktop\C# 06.12.2011 Morning\Solution1\5. Pillars\bin\Debug\_5.Pillars.exe
+C:\Users\SpooN\Desktop\C# 06.12.2011 Morning\Solution1\5. Pillars\bin\Debug\_5.Pillars.pdb
+C:\Users\SpooN\Desktop\C# 06.12.2011 Morning\Solution1\5. Pillars\obj\Debug\5. Pillars.csprojResolveAssemblyReference.cache
+C:\Users\SpooN\Desktop\C# 06.12.2011 Morning\Solution1\5. Pillars\obj\Debug\_5.Pillars.exe
+C:\Users\SpooN\Desktop\C# 06.12.2011 Morning\Solution1\5. Pillars\obj\Debug\_5.Pillars.pdb

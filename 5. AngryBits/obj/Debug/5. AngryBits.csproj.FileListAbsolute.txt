@@ -1,0 +1,6 @@
+C:\Users\SpooN\Desktop\C# 29.12.2012\CSharp29.12.2012\5. AngryBits\bin\Debug\_5.AngryBits.exe.config
+C:\Users\SpooN\Desktop\C# 29.12.2012\CSharp29.12.2012\5. AngryBits\bin\Debug\_5.AngryBits.exe
+C:\Users\SpooN\Desktop\C# 29.12.2012\CSharp29.12.2012\5. AngryBits\bin\Debug\_5.AngryBits.pdb
+C:\Users\SpooN\Desktop\C# 29.12.2012\CSharp29.12.2012\5. AngryBits\obj\Debug\5. AngryBits.csprojResolveAssemblyReference.cache
+C:\Users\SpooN\Desktop\C# 29.12.2012\CSharp29.12.2012\5. AngryBits\obj\Debug\_5.AngryBits.exe
+C:\Users\SpooN\Desktop\C# 29.12.2012\CSharp29.12.2012\5. AngryBits\obj\Debug\_5.AngryBits.pdb

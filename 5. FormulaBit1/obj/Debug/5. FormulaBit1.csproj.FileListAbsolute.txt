@@ -1,0 +1,6 @@
+C:\Users\SpooN\Desktop\C# 27.12.2012\CSharp27.12.2012\5. FormulaBit1\bin\Debug\_5.FormulaBit1.exe.config
+C:\Users\SpooN\Desktop\C# 27.12.2012\CSharp27.12.2012\5. FormulaBit1\bin\Debug\_5.FormulaBit1.exe
+C:\Users\SpooN\Desktop\C# 27.12.2012\CSharp27.12.2012\5. FormulaBit1\bin\Debug\_5.FormulaBit1.pdb
+C:\Users\SpooN\Desktop\C# 27.12.2012\CSharp27.12.2012\5. FormulaBit1\obj\Debug\_5.FormulaBit1.exe
+C:\Users\SpooN\Desktop\C# 27.12.2012\CSharp27.12.2012\5. FormulaBit1\obj\Debug\_5.FormulaBit1.pdb
+C:\Users\SpooN\Desktop\C# 27.12.2012\CSharp27.12.2012\5. FormulaBit1\obj\Debug\5. FormulaBit1.csprojResolveAssemblyReference.cache

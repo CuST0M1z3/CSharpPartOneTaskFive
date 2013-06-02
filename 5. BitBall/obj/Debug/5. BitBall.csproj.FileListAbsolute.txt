@@ -1,0 +1,6 @@
+C:\Users\SpooN\Desktop\C# 28.12.2012\CSharp28.12.2012\5. BitBall\bin\Debug\_5.BitBall.exe.config
+C:\Users\SpooN\Desktop\C# 28.12.2012\CSharp28.12.2012\5. BitBall\bin\Debug\_5.BitBall.exe
+C:\Users\SpooN\Desktop\C# 28.12.2012\CSharp28.12.2012\5. BitBall\bin\Debug\_5.BitBall.pdb
+C:\Users\SpooN\Desktop\C# 28.12.2012\CSharp28.12.2012\5. BitBall\obj\Debug\5. BitBall.csprojResolveAssemblyReference.cache
+C:\Users\SpooN\Desktop\C# 28.12.2012\CSharp28.12.2012\5. BitBall\obj\Debug\_5.BitBall.exe
+C:\Users\SpooN\Desktop\C# 28.12.2012\CSharp28.12.2012\5. BitBall\obj\Debug\_5.BitBall.pdb
